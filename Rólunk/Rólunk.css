@@ -1,0 +1,15 @@
+.bal {
+  float: left;
+}
+img.jobb {
+  float: right;
+}
+span.jobb {
+  display: block;
+  text-align: right;
+}
+img {
+  width: 200px;
+  height: 200px;
+}
+
