@@ -26,9 +26,14 @@ img {
 	border-bottom-right-radius: 50px;
   padding: 35px;
 }
-body{
-  background-image: url(http://faktor.s3.eu-central-1.amazonaws.com/kepadatbazis/5abb1c1bdaa45c830882ee4b0e1f87ac5d426836/58afa24c5edd90811ebaad60ce9e6288f9af6084.gif);
-}
 p.kecske{
   font-size: 24px;
+}
+
+#hatterkep{
+  background-image: url(https://tervlap.hu/common/uploads/watermarks/4942_27882-3225db325173a097a2c8eeda073b2e7d.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100%;
+  background-color: green;
 }
