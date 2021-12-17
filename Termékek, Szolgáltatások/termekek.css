@@ -11,3 +11,12 @@
     width: 150px;
     float: right;
 }
+
+#TRD{
+    text-align: center;
+    width: 100%;
+}
+
+td.TDR{
+    width: 33%;
+}
