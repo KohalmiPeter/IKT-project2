@@ -42,8 +42,8 @@ p.kecske{
   width: 100%;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   float: right;
-  background-color: rgb(18, 212, 106);
   font-size: 30px;
+  background-color: rgba(256, 256, 256, 0.5)
 }
 
 #logo{
