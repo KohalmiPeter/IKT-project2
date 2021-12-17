@@ -1,0 +1,13 @@
+#fejléc{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    background-color: rgb(18, 212, 106);
+    font-size: 30px;
+}
+
+#logo{
+    height: 150px;
+    width: 150px;
+    float: right;
+}
