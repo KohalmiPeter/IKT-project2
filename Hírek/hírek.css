@@ -30,12 +30,13 @@ img.kiskep{
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: #ff6a00;
+    background-position: center;
   }
   #fejléc{
     width: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: right;
-    
+    background-color: rgba(0, 0, 0, 0.5);
     font-size: 30px;
   }
   
@@ -47,4 +48,7 @@ img.kiskep{
 
 #ÁTHELYEZETT{
   background-image: url('https://i.ibb.co/pnZfN9k/fatyol.png');
+}
+a{
+  color: #00caf3;
 }
