@@ -19,4 +19,60 @@
 
 td.TDR{
     width: 33%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#fő{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img.TDR{
+    width: 250px;
+    height: 250px;
+}
+
+#doboz1{
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#vásárlás{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#doboz2{
+    width: 800px;
+    height: 50px;
+    font-size: 20px;
+}
+
+p.nagy{
+    font-size: 60px;
+}
+
+td.utcsó{
+    float: right;
+}
+
+#kés{
+    border: 2px solid black;
+    width: 94px;
+    float: right;
+}
+
+body.error{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.hiba{
+    font-size: 100px;
+}
+
+p.ui{
+    font-size: 10px;
 }
