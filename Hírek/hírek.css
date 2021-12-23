@@ -26,7 +26,7 @@ img.kiskep{
   color: #00caf3;
 }
 #hatterkep{
-    background-image: url(background_pic.png);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: #ff6a00;
@@ -51,4 +51,71 @@ img.kiskep{
 }
 a{
   color: #00caf3;
+}
+
+#doboz1{
+  height: 50px;
+  width: 300px;
+  font-size: 20px;
+}
+
+#doboz2{
+  width: 800px;
+  height: 50px;
+  font-size: 20px;
+}
+
+#kés{
+  border: 2px solid black;
+  width: 94px;
+  float: right;
+}
+
+#hjk{
+  color: black;
+}
+
+#nm{
+  background-image: url(onnyert.gif);
+  background-size: 100%;
+}
+
+#fg{
+  color: white;
+  float: right;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#vásárlás{
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-size: 20px;
+}
+
+p.nagy{
+  font-size: 60px;
+}
+
+body.error{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.hiba{
+  font-size: 100px;
+}
+
+p.ui{
+  font-size: 10px;
+}
+
+#kés3{
+  border: 2px solid black;
+  width: 122px;
+  float: right;
+}
+
+#hétár{
+  background-image: url(Hack.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
 }

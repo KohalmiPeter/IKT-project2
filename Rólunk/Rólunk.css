@@ -8,16 +8,13 @@ span.jobb {
   display: block;
   text-align: right;
 }
-img {
-  width: 200px;
-  height: 200px;
-}
+
 .nevek{
   color:green;
   font-weight: bold;
 }
 #leiras{
-	background-image: url('https://i.ibb.co/pnZfN9k/fatyol.png');
+	background-color: rgba(256, 256, 256, 0.5);
 	width: 880px;
 	margin: auto;
 	margin-top: 50px;
@@ -31,11 +28,12 @@ p.kecske{
 }
 
 #hatterkep{
-  background-image: url(https://tervlap.hu/common/uploads/watermarks/4942_27882-3225db325173a097a2c8eeda073b2e7d.jpg);
+  background-image: url();
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
-  background-color: green;
+  background-color: rgb(55, 230, 32);
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #fejléc{
@@ -50,4 +48,41 @@ p.kecske{
   height: 150px;
   width: 150px;
   float: right;
+}
+
+#HD620{
+  font-size: 20px;
+  text-align: justify;
+  margin: 20px;
+}
+
+#alma{
+  width: 100%;
+  text-align: center;
+}
+
+#kisköcsög{
+  width: 33%;
+  font-size: 20px;
+
+}
+
+#nagyköcsög{
+  width: 50%;
+  font-size: 25px;
+}
+
+#legnagyobbköcsög{
+  font-size: 30px;
+  text-align: center;
+}
+
+#kicsi{
+  width: 200px;
+  height: 200px;
+}
+
+#nagy{
+  width: 250px;
+  height: 250px;
 }
