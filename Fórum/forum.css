@@ -1,3 +1,6 @@
+body{
+background-color: pink;
+}
 #fejléc{
     width: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -10,4 +13,13 @@
     height: 150px;
     width: 150px;
     float: right;
+}
+.nev{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue; 
+}
+.komment{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkblue;
+    color: white;
 }
