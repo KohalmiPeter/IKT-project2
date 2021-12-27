@@ -24,7 +24,7 @@
                     <p><a href="../Rólunk/rolunk.html">RÓLUNK</a></p>
                 </td>
                 <td>
-                    <img src="../logo.png" id="logo">
+                    <img onclick="logo()" src="../logo.png" id="logo">
                 </td>
             </tr>
         </table>
@@ -34,7 +34,7 @@
 <table>
     <tr>
         <td>
-            <p class="nev">Gaszsy84:</p>
+            <p onclick = "nevalert()" class="nev">Gaszsy84:</p>
         </td>
         <td>
             <p class="komment">Nem tudok betelni ezzel a bolttal, de azt még mindig nem teljesen tudom hogy mit jelent a fórum szó, és ezt úgy érzem hogy a fórumon a legjobb megkérdezni.</p>
@@ -48,7 +48,7 @@
             <table>
                 <tr>
                     <td>
-                        <p class="nev">Gaszsy85:</p>
+                        <p onclick = "nevalert()" class="nev">Gaszsy85:</p>
                     </td>
                     <td>
                         <p class="komment">Én se tudom.</p>
@@ -56,7 +56,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="nev">Név:</p>
+                        <p onclick = "nevalert()" class="nev">Név:</p>
                     </td>
                     <td>
                         <p class="komment">Sajnos én sem tudom.</p>
@@ -64,7 +64,7 @@
                 </tr>
                 <tr>
                     <td>
-                        <p class="nev">Jézus maga:</p>
+                        <p onclick = "nevalert()" class="nev">Jézus maga:</p>
                     </td>
                     <td>
                         <p class="komment">Ezt találtam de lusta voltam elolvasni:<a href="https://wikiszotar.hu/ertelmezo-szotar/F%C3%B3rum">[link]</a></p>
@@ -75,10 +75,10 @@
     </tr>
     <tr>
         <td>
-            <p class="nev">János1999:</p>
+            <p onclick = "nevalert()" class="nev">János1999:</p>
         </td>
         <td>
-            <p class="komment">Nem tudna valaki abban sevíteni hogy rendeltem valamit tavaj januárban és még nem érkezett meg. Írtam nekik többször is de nem válaszolnak.</p>
+            <p class="komment">Nem tudna valaki abban sevíteni hogy rendeltem valamit tavaly januárban és még nem érkezett meg. Írtam nekik többször is de nem válaszolnak.</p>
         </td>
     </tr>
     <tr>
@@ -89,7 +89,7 @@
             <table>
                 <tr>
                     <td>
-                        <p class="nev">Jézus maga:</p>
+                        <p onclick = "nevalert()" class="nev">Jézus maga:</p>
                     </td>
                     <td>
                         <p class="komment">Nem.</p>
@@ -105,5 +105,11 @@
         prompt ("Ide írd a kommentedet")
         alert ("Hiba történt kérlek póbáld újra")
         alert ("Lehet mégsem hiba volt hanem elloptuk a fémet a ruteredből")
+    }
+    function logo() {
+        alert ("Nem, a logó nem csinál semmit!")
+    }
+    function nevalert() {
+        alert ("Hagyd békén emberek magánéletét!")
     }
 </script>
