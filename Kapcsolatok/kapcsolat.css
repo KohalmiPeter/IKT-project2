@@ -2,7 +2,7 @@
     width: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: right;
-    background-color: rgb(18, 212, 106);
+    background-color: cadetblue;
     font-size: 30px;
 }
 
@@ -21,7 +21,7 @@ p.asd{
     font-size: 20px;
 }
 body.hatter{
-    background-image: url(hatter.jpeg);
+    background-image: url();
     background-repeat: no-repeat;
     background-size: 200%;
     background-position: center;
@@ -30,7 +30,7 @@ body.hatter{
 body.insta{
     background-image: url(Instagl.png);
     background-repeat: no-repeat;
-    background-size: 1920px 1080px;
+    background-size: 100%;
 
 }
 body.faszbuk{
@@ -50,3 +50,10 @@ background-size: 1920px 1080px;
     float: right;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
+
+body.asd{
+    background-image: url(twitter2.gif); 
+    background-repeat: no-repeat; 
+    background-size: 100%; 
+    background-color: rgb(232, 240, 240);
+}
