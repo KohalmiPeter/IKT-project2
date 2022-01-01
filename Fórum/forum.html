@@ -99,17 +99,29 @@
         </td>
     </tr>
 </table>
-<button onclick="komment()">Komment hozzáadása</button>
+<button onclick="komment()">Komment hozzáadása</button><br>
+<button onclick="ertekeles()">Weboldal értékelése</button>
+
 <script>
     function komment() {
-        prompt ("Ide írd a kommentedet")
-        alert ("Hiba történt kérlek póbáld újra")
-        alert ("Lehet mégsem hiba volt hanem elloptuk a fémet a ruteredből")
+        prompt ("Ide írd a kommentedet");
+        alert ("Hiba történt kérlek póbáld újra");
+        alert ("Lehet mégsem hiba volt hanem elloptuk a fémet a ruteredből");
     }
     function logo() {
-        alert ("Nem, a logó nem csinál semmit!")
+        alert ("Nem, a logó nem csinál semmit!");
     }
     function nevalert() {
-        alert ("Hagyd békén emberek magánéletét!")
+        alert ("Hagyd békén emberek magánéletét!");
+    }
+    function ertekeles() {
+        var ertek = prompt ("Értékeld az oldalt 1-5");
+        if (ertek == 5 ) {
+            alert ("köszönnyük hogy értékelte az oldalt");
+        } else {
+            alert ("Hiba történt kérlek próbáld újra");
+            ertekeles();
+        return;
+        }  
     }
 </script>
