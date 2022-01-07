@@ -92,4 +92,8 @@ p.ui{
     background-attachment: fixed;
     background-size: 100%;
 }
-
+#fidesz{
+	height: 150px;
+    width: 150px;
+	float: right;
+}

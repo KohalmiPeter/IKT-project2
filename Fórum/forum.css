@@ -23,3 +23,8 @@ background-color: rgb(18, 212, 106);
     background-color: darkblue;
     color: white;
 }
+#fidesz{
+	height: 150px;
+    width: 150px;
+	float: right;
+}
