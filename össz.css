@@ -1,0 +1,369 @@
+
+#logo{
+    height: 150px;
+    width: 150px;
+    float: right;
+}
+
+#fidesz{
+	height: 150px;
+    width: 150px;
+	float: right;
+}
+
+#TRD{
+    text-align: center;
+    width: 100%;
+}
+
+td.TDR{
+    width: 33%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#fő{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+img.TDR{
+    width: 250px;
+    height: 250px;
+}
+
+#doboz1{
+    height: 50px;
+    width: 300px;
+    font-size: 20px;
+}
+
+#vásárlás{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+
+#doboz2{
+    width: 800px;
+    height: 50px;
+    font-size: 20px;
+}
+
+p.nagy{
+    font-size: 60px;
+}
+
+td.utcsó{
+    float: right;
+}
+
+#kés{
+    border: 2px solid black;
+    width: 94px;
+    float: right;
+}
+
+body.error{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.hiba{
+    font-size: 100px;
+}
+
+p.ui{
+    font-size: 10px;
+}
+
+#lop{
+    font-size: 20px;
+}
+
+#kés2{
+    border: 2px solid black;
+    width: 71px;
+    float: right;
+}
+
+#main{
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#fő{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.nagy{
+    font-size: 60px;
+}
+
+td.utcsó{
+    float: right;
+}
+
+#kés{
+    border: 2px solid black;
+    width: 94px;
+    float: right;
+}
+
+body.error{
+    text-align: center;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.hiba{
+    font-size: 100px;
+}
+
+p.ui{
+    font-size: 10px;
+}
+
+#lop{
+    font-size: 20px;
+}
+
+#kés2{
+    border: 2px solid black;
+    width: 71px;
+    float: right;
+}
+
+#main{
+    background-color: cadetblue;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100%;
+}
+
+#fejléc{
+    width: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    float: right;
+    background-color: cadetblue;
+    font-size: 30px;
+}
+
+
+#ikon{
+    width: 18px;
+    height: 18px;
+    float: left;
+
+}
+p.asd{
+    font-size: 20px;
+}
+body.hatter{
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: 200%;
+    background-position: center;
+    background-color:cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+body.insta{
+    background-image: url(Instagl.png);
+    background-repeat: no-repeat;
+    background-size: 100%;
+
+}
+body.faszbuk{
+background-image: url(arckönyv.png);
+background-repeat: no-repeat;
+background-size: 1920px 1080px;
+
+}
+body.madar{
+background-image: url(twitter.gif);
+background-repeat: no-repeat;
+background-size: 1920px 1080px;
+
+}
+.fg{
+    color: black;
+    float: right;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+
+body.asd{
+    background-image: url(twitter2.gif); 
+    background-repeat: no-repeat; 
+    background-size: 100%; 
+    background-color: rgb(232, 240, 240);
+}
+
+.bal {
+float: left;
+}
+.jobb {
+float: right;
+}
+span.jobb {
+display: block;
+text-align: right;
+}
+  
+.nevek{
+color:green;
+font-weight: bold;
+}
+#leiras-rolunk{
+    background-color: rgba(256, 256, 256, 0.5);
+    width: 880px;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-bottom-right-radius: 50px;
+    border-top-left-radius: 50px;
+    padding: 35px;
+}
+
+p.kecske{
+    font-size: 24px;
+}
+  
+#hatterkep{
+    background-color: cadetblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+  
+#HD620{
+    font-size: 20px;
+    text-align: justify;
+    margin: 20px;
+}
+  
+#alma{
+    width: 100%;
+    text-align: center;
+}
+  
+#kisköcsög{
+    width: 33%;
+    font-size: 20px;
+}
+  
+#nagyköcsög{
+    width: 50%;
+    font-size: 25px;
+}
+  
+#legnagyobbköcsög{
+    font-size: 30px;
+    text-align: center;
+}
+  
+#kicsi{
+    width: 200px;
+    height: 200px;
+}
+  
+#nagy{
+    width: 250px;
+    height: 250px;
+}
+
+
+img.kiskep{
+    width: 75px;
+    height: 75px;
+    float: right;
+    padding-left: 10px;
+
+}
+#leiras{
+  color: #00caf3;
+  font-size: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  background-color: rgba(0, 0, 0, 0.7);
+	width: 880px;
+	margin: auto;
+	margin-top: 50px;
+	margin-bottom: 50px;
+	border-top-left-radius: 50px;
+	border-bottom-right-radius: 50px;
+  padding: 35px;
+  float: left;
+  text-align: justify;
+
+}
+
+#nyeremeny{
+  color: #00caf3;
+}  
+
+a{
+    color: black;
+}
+
+#kés{
+  border: 2px solid black;
+  width: 94px;
+  float: right;
+}
+
+#hjk{
+  color: black;
+}
+
+#nm{
+  background-image: url(Hírek/onnyert.gif);
+  background-size: 100%;
+}
+
+#fg{
+  color: white;
+  float: right;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.nagy{
+  font-size: 60px;
+}
+
+body.error{
+  text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p.hiba{
+  font-size: 100px;
+}
+
+p.ui{
+  font-size: 10px;
+}
+
+#kés3{
+  border: 2px solid black;
+  width: 122px;
+  float: right;
+}
+
+#hétár{
+  background-image: url(Hírek/Hack.jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+
+
+body{
+    background-color: cadetblue;
+    }
+    
+.nev{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: blue; 
+    }
+.komment{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: darkblue;        color: white;
+    }
+
