@@ -32,7 +32,7 @@ p.kecske{
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-size: 100%;
-  background-color: rgb(55, 230, 32);
+  background-color: cadetblue;
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
@@ -41,7 +41,7 @@ p.kecske{
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   float: right;
   font-size: 30px;
-  background-color: rgb(55, 230, 32))
+  background-color: cadetblue
 }
 
 #logo{

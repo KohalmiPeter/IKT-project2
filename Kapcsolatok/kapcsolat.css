@@ -26,6 +26,7 @@ body.hatter{
     background-size: 200%;
     background-position: center;
     background-color:cadetblue;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body.insta{
     background-image: url(Instagl.png);
