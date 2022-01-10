@@ -169,24 +169,13 @@ body.hatter{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 body.insta{
-    background-image: url(Kapcsolatok/Instagl.png);
+    background-image: url(Kapcsolatok/Insta_backpic.png);
     background-repeat: no-repeat;
     background-size: 100%;
     background-color: white;
 
 }
-body.faszbuk{
-background-image: url(arckönyv.png);
-background-repeat: no-repeat;
-background-size: 1920px 1080px;
 
-}
-body.madar{
-background-image: url(twitter.gif);
-background-repeat: no-repeat;
-background-size: 1920px 1080px;
-
-}
 .fg{
     color: black;
     float: right;
@@ -194,7 +183,7 @@ background-size: 1920px 1080px;
   }
 
 body.asd{
-    background-image: url(Kapcsolatok/twitter2.gif); 
+    background-image: url(Kapcsolatok/twitter_backpic.gif); 
     background-repeat: no-repeat; 
     background-size: 100%; 
     background-color: rgb(232, 240, 240);
