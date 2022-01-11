@@ -175,14 +175,14 @@ p.kecske{
 #kicsi{
     width: 200px;
     height: 200px;
-    border: white 10px solid;
+    border: white 4px solid;
     border-radius: 4px;
 }
   
 #nagy{
     width: 250px;
     height: 250px;
-    border: white 15px solid;
+    border: white 7px solid;
     border-radius: 4px;
 }
 
