@@ -70,25 +70,18 @@ p.ui{
 }
 
 #kés2{
-    border: 2px solid black;
+    border: 2px solid rgb(255, 255, 255);
     width: 71px;
     float: right;
 }
-
-#main{
-    background-color: cadetblue;
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: 100%;
-}
-
 
 #fejléc{
     width: 100%;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     float: right;
-    background-color: cadetblue;
+    background-color: rgba(0, 0, 0, 0.4);
     font-size: 30px;
+    border-radius: 5px;
 }
 
 
@@ -101,14 +94,7 @@ p.ui{
 p.asd{
     font-size: 20px;
 }
-body.hatter{
-    background-image: url();
-    background-repeat: no-repeat;
-    background-size: 200%;
-    background-position: center;
-    background-color:cadetblue;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
+
 body.insta{
     background-image: url(Kapcsolatok/Insta_backpic.png);
     background-repeat: no-repeat;
@@ -159,12 +145,7 @@ font-weight: bold;
 p.kecske{
     font-size: 24px;
 }
-  
-#hatterkep{
-    background-color: cadetblue;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-}
-  
+    
 #HD620{
     font-size: 20px;
     text-align: justify;
@@ -178,27 +159,31 @@ p.kecske{
   
 #kisköcsög{
     width: 33%;
-    font-size: 20px;
+    font-size: 30px;
 }
   
 #nagyköcsög{
     width: 50%;
-    font-size: 25px;
+    font-size: 40px;
 }
   
 #legnagyobbköcsög{
-    font-size: 30px;
+    font-size: 50px;
     text-align: center;
 }
   
 #kicsi{
     width: 200px;
     height: 200px;
+    border: white 4px solid;
+    border-radius: 4px;
 }
   
 #nagy{
     width: 250px;
     height: 250px;
+    border: white 7px solid;
+    border-radius: 4px;
 }
 
 
@@ -210,10 +195,10 @@ img.kiskep{
 
 }
 #leiras{
-  color: #00caf3;
+  color: white;
   font-size: 20px;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  background-color: rgba(0, 0, 0, 0.7);
+  background-color: rgba(69, 69, 69, 0.7);
 	width: 880px;
 	margin: auto;
 	margin-top: 50px;
@@ -231,18 +216,15 @@ img.kiskep{
 }  
 
 a{
-    color: black;
+    color: rgb(255, 255, 255);
 }
 
 #kés{
-  border: 2px solid black;
+  border: 2px solid rgb(255, 255, 255);
   width: 94px;
   float: right;
 }
 
-#hjk{
-  color: black;
-}
 
 #nm{
   background-image: url(Hírek/onnyert.gif);
@@ -262,7 +244,7 @@ body.error{
 }
 
 #kés3{
-  border: 2px solid black;
+  border: 2px solid rgb(255, 255, 255);
   width: 122px;
   float: right;
 }
@@ -275,15 +257,32 @@ body.error{
 
 
 body{
-    background-color: cadetblue;
+    background-image: url(background.jpg);
+    background-size: 100%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
     }
     
 .nev{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: blue; 
+    color: rgb(138, 138, 255); 
     }
 .komment{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
          
     }
 
+textarea{
+    resize: none;
+}
+
+button{
+    width: 200px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 10px;
+    height: 50px;
+    font-size: 15px;
+    color: white;
+    background-color: rgb(138, 138, 255);
+    border-radius: 10px;
+}
